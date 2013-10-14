@@ -16,4 +16,4 @@ build:
 
     # this assumes that your test suite runs via `grunt test`
     - grunt:
-        tasks: test --verbose --force
+        tasks: test --verbose
